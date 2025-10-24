@@ -1,0 +1,15 @@
+# Data folders
+data_raw/
+data_processed/
+cloud_data/
+artifacts/
+ECHO is on.
+# OS 
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+.vscode/
+ECHO is on.
+# Python cache
+__pycache__/
+*.pyc
